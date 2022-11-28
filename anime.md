@@ -416,7 +416,16 @@ For any use or reference to this project please cite the following papers.
 
 ```
 @INPROCEEDINGS{
-  TBD
+  10.1007/978-3-031-13321-3_17,
+  author="Gualandris, Gianluca and Savardi, Mattia and Signoroni, Alberto and Benini, Sergio",
+  editor="Mazzeo, Pier Luigi and Frontoni, Emanuele and Sclaroff, Stan and Distante, Cosimo",
+  title="Automatic Indexing of Virtual Camera Features from Japanese Anime",
+  booktitle="Image Analysis and Processing. ICIAP 2022 Workshops",
+  year="2022",
+  publisher="Springer International Publishing",
+  address="Cham",
+  pages="186--197",
+  isbn="978-3-031-13321-3"
 }
   
 ```
